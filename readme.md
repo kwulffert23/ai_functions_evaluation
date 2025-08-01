@@ -2,9 +2,7 @@
 
 A minimal example that shows how to **classify product descriptions** with Databricks SQL AI functions and then **evaluate** those predictions in MLflow, including the new `mlflow.genai` semantic scorers.
 
----
-
-\## Project overview
+## **Project overview**
 
 | File                         | Purpose                                                    |
 | ---------------------------- | ---------------------------------------------------------- |
@@ -14,7 +12,7 @@ A minimal example that shows how to **classify product descriptions** with Datab
 
 ---
 
-\## Quick start
+## **Quick start
 
 1. **Clone the repo**
    ```bash
@@ -36,12 +34,11 @@ The script will:
 
 ---
 
-\## MLflow3 Evaluation
+## **MLflow3 Evaluation
 
-\###Example of Classic ML evaluation 
-![MLflow experiment page](img/mlflow_classic.png)
+### **Example of Classic ML evaluation 
+![MLflow experiment UI](img/mlflow_classic.png)
 
-\###Example of GenAI evaluation 
-![Run details](img/mlflow_genai.png)
-```
+### **Example of GenAI evaluation 
+![MLflow experiment UI](img/mlflow_genai.png)
 
