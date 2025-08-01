@@ -36,9 +36,8 @@ The script will:
 
 ## MLflow3 Evaluation
 
-### Example of Classic ML evaluation 
-![MLflow experiment UI](img/mlflow_classic.png)
-
-### **Example of GenAI evaluation 
+### Example of GenAI evaluation 
 ![MLflow experiment UI](img/mlflow_genai.png)
 
+### Example of Classic ML evaluation 
+![MLflow experiment UI](img/mlflow_classic.png)
